@@ -50,5 +50,3 @@ AI-101/
 
 ⭐ Star this repo if you're also learning AI!
 ```
-
----
